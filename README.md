@@ -11,14 +11,20 @@ This is the main repository for team 1.
 1. Build project.
 
 ```shell
-go build main.go
+go build receive.go
+go build send.go
 ```
 
-2. Run program.
+2. Run programs.
 
 ```shell
-./main    # Linux/macOS
-main.exe  # Windows
+./receive    # Linux/macOS
+receive.exe  # Windows
+```
+
+```shell
+./send    # Linux/macOS
+send.exe  # Windows
 ```
 
 ## Authors
