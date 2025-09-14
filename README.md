@@ -23,5 +23,5 @@ main.exe  # Windows
 
 ## Authors
 
-- [Daniel Ribeirinha-Braga](https://github.com/DBragz)
 - [Rahol Rao](https://github.com/RahulR30/)
+- [Daniel Ribeirinha-Braga](https://github.com/DBragz)
