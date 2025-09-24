@@ -1,4 +1,4 @@
-# Optimum Hackthaon 2025
+# Optimum Hackthon 2025
 
 This is the main repository for team 1.
 
